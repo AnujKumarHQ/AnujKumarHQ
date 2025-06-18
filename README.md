@@ -40,7 +40,6 @@
 
 ![Anuj’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujKumarHQ&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumarHQ&layout=compact&theme=tokyonight)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=AnujKumarHQ&theme=onedark)
 
 ---
 
