@@ -1,6 +1,6 @@
 # Hi, I’m Anuj Kumar
 
-|Full Stack Developer | Data Analytics 
+|Full Stack Developer | Data Analytics | Mobile Developer
 
 ---
 
