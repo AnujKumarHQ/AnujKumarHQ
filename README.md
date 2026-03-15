@@ -22,7 +22,7 @@
 ---
 
 ##  Featured Projects  
--  [**LenGaki**](https://www.lengaki.com/) – Free Japanese learning platform (JLPT N5–N4)  
+-  [**LenGaki**](https://www.lengaki.com/) – Free Japanese learning platform (JLPT N5–N2)  
 -  AQI Data Visualization – 10-year analysis of India’s air quality  
 -  Mini tools and dashboards for learning & productivity  
 
